@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/minatel/Documents/pessoal/projetos/esp32-s2_corebase/esp32-s2_corebase/esp32-s2_corebase.sch)
-    (date "seg 05 out 2020 14:21:36")
+    (date "seg 05 out 2020 15:35:22")
     (tool "Eeschema 5.1.5+dfsg1-2build2")
     (sheet (number 1) (name /) (tstamps /)
       (title_block

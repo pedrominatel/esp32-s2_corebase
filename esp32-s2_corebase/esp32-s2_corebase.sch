@@ -788,7 +788,7 @@ U 1 1 5F227B52
 P 3900 7000
 F 0 "U2" H 3450 7350 50  0000 C CNN
 F 1 "W25Q128JVS" H 3550 6650 50  0000 C CNN
-F 2 "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm" H 3900 7000 50  0001 C CNN
+F 2 "Package_SO:SOIC-8_5.275x5.275mm_P1.27mm" H 3900 7000 50  0001 C CNN
 F 3 "http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf" H 3900 7000 50  0001 C CNN
 	1    3900 7000
 	1    0    0    -1  
@@ -949,7 +949,7 @@ U 1 1 5F416651
 P 1600 7000
 F 0 "U1" H 1150 7350 50  0000 C CNN
 F 1 "PSRAM" H 1250 6650 50  0000 C CNN
-F 2 "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm" H 1600 7000 50  0001 C CNN
+F 2 "Package_SO:SOIC-8_5.275x5.275mm_P1.27mm" H 1600 7000 50  0001 C CNN
 F 3 "http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf" H 1600 7000 50  0001 C CNN
 	1    1600 7000
 	1    0    0    -1  

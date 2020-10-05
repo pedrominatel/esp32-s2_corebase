@@ -914,8 +914,8 @@ Text Notes 1650 4550 0    50   ~ 0
 HF Crystal 40MHz
 Text Notes 3450 4050 0    50   ~ 0
 LF Crystal 32kHz
-Text Notes 600  6000 0    50   ~ 0
-Flash Memory 16MB
+Text Notes 600  6100 0    50   ~ 0
+Flash Memory 16MB\nPSRAM
 Wire Notes Line
 	4850 7700 4850 5900
 Wire Wire Line
@@ -1197,7 +1197,7 @@ U 1 1 5F8F22E4
 P 750 5400
 F 0 "D1" V 704 5479 50  0000 L CNN
 F 1 "LESD8D3.3CAT5G" V 795 5479 50  0000 L CNN
-F 2 "" H 750 5400 50  0001 C CNN
+F 2 "misc:SC70" H 750 5400 50  0001 C CNN
 F 3 "~" H 750 5400 50  0001 C CNN
 	1    750  5400
 	0    1    1    0   
